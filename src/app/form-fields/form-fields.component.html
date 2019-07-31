@@ -1,0 +1,41 @@
+<div class="example-container">
+    <form  [formGroup]="onSubmitForm" (ngSubmit)="onSubmit(onSubmitForm.value)" >      
+        <mat-form-field>
+            <input matInput placeholder="Search Document by ID" formControlName="documentId" required>         
+        </mat-form-field>&nbsp;&nbsp;
+        
+        <button mat-button type="submit"> Do Search</button>
+        <div>
+            <mat-checkbox formControlName="includeDeleted">Include Deleted</mat-checkbox>  &nbsp;
+            <mat-checkbox formControlName="includeTsSearch">Include Ts Search</mat-checkbox> &nbsp;
+            <mat-checkbox formControlName="docTypeFilter">Doctype Filter</mat-checkbox> &nbsp;
+        </div>
+         
+        <div>
+            <mat-checkbox #showDateSelector formControlName="searchByDate" checked="isChecked" (change)="onChange($event)">Enable Search by Date </mat-checkbox> 
+        </div> 
+        <div *ngIf="showDateSelector.checked">
+            <mat-form-field >
+                    <input matInput [matDatepicker]="picker1" placeholder="startDate" formControlName="startDate">
+                    <mat-datepicker-toggle matSuffix [for]="picker1"></mat-datepicker-toggle>
+                    <mat-datepicker #picker1></mat-datepicker>
+            </mat-form-field>
+            <mat-form-field>
+                    <input matInput [matDatepicker]="picker2" placeholder="endDate" formControlName="endDate">
+                    <mat-datepicker-toggle matSuffix [for]="picker2"></mat-datepicker-toggle>
+                    <mat-datepicker #picker2></mat-datepicker>
+            </mat-form-field>
+        </div>
+        
+        
+   
+    </form>
+  </div>
+
+  <ag-grid-angular 
+    style="width: 100%; height: 100%;" 
+    class="ag-theme-balham"
+    [rowData]="rowData | async"
+    [columnDefs]="columnDefs"
+    >
+    </ag-grid-angular>
