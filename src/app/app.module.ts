@@ -18,13 +18,17 @@ import {MatCheckboxModule} from '@angular/material/checkbox';
 import { MatCardModule } from '@angular/material';
 import { FormFieldsComponent } from './form-fields/form-fields.component';
 import {MatDatepickerModule} from '@angular/material/datepicker';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { OwlDateTimeModule, OwlNativeDateTimeModule } from 'ng-pick-datetime';
+import { MomentjsDateComponentComponent } from './momentjs-date-component/momentjs-date-component.component';
 @NgModule({
   declarations: [
     AppComponent,
     SearchDocumentComponent,
     ShowDataComponent,
     AgGridShowTableComponent,
-    FormFieldsComponent
+    FormFieldsComponent,
+    MomentjsDateComponentComponent
   ],
   imports: [
     BrowserModule,
@@ -43,7 +47,10 @@ import {MatDatepickerModule} from '@angular/material/datepicker';
     ReactiveFormsModule,
     MatSelectModule,
     MatDatepickerModule,
-    MatNativeDateModule
+    MatNativeDateModule,
+    NgbModule,
+    OwlDateTimeModule, 
+    OwlNativeDateTimeModule
     
   ],
   providers: [MatDatepickerModule],

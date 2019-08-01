@@ -12,23 +12,29 @@
         </div>
          
         <div>
-            <mat-checkbox #showDateSelector formControlName="searchByDate" checked="isChecked" (change)="onChange($event)">Enable Search by Date </mat-checkbox> 
+            <mat-checkbox #showDateSelector formControlName="searchByDate" checked="isCheckedDate" (change)="onChange($event)">Enable Search by Date </mat-checkbox> 
+            <mat-checkbox #showTimeSelector formControlName="searchByTime" checked="isCheckedTime" (change)="onChange($event)">Enable Search by Time </mat-checkbox> 
+      
         </div> 
         <div *ngIf="showDateSelector.checked">
-            <mat-form-field >
-                    <input matInput [matDatepicker]="picker1" placeholder="startDate" formControlName="startDate">
-                    <mat-datepicker-toggle matSuffix [for]="picker1"></mat-datepicker-toggle>
-                    <mat-datepicker #picker1></mat-datepicker>
-            </mat-form-field>
             <mat-form-field>
-                    <input matInput [matDatepicker]="picker2" placeholder="endDate" formControlName="endDate">
-                    <mat-datepicker-toggle matSuffix [for]="picker2"></mat-datepicker-toggle>
-                    <mat-datepicker #picker2></mat-datepicker>
+                <input matInput [owlDateTime]="dt1" [owlDateTimeTrigger]="dt1" placeholder="Start Date"  formControlName="startDate">
+                <owl-date-time [pickerType]="'calendar'" #dt1></owl-date-time>
             </mat-form-field>
-        </div>
-        
-        
-   
+            <mat-form-field *ngIf="showTimeSelector.checked">
+                    <input matInput [owlDateTime]="dt11" [owlDateTimeTrigger]="dt11" placeholder="Start Time"  formControlName="startTime">
+                    <owl-date-time [pickerType]="'timer'" #dt11></owl-date-time>
+            </mat-form-field>&nbsp;&nbsp;
+
+            <mat-form-field>
+                <input matInput [owlDateTime]="dt2" [owlDateTimeTrigger]="dt2" placeholder="End Date"  formControlName="endDate">
+                <owl-date-time [pickerType]="'calendar'" #dt2></owl-date-time>
+            </mat-form-field> 
+            <mat-form-field *ngIf="showTimeSelector.checked">
+                    <input matInput [owlDateTime]="dt22" [owlDateTimeTrigger]="dt22" placeholder="End Time"  formControlName="endTime">
+                    <owl-date-time [pickerType]="'timer'" #dt22></owl-date-time>
+            </mat-form-field>   
+        </div>       
     </form>
   </div>
 
