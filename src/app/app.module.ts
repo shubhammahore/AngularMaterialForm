@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { FormsModule,ReactiveFormsModule} from '@angular/forms';
 import {MatFormFieldModule} from '@angular/material/form-field';
-import { SearchDocumentComponent } from './search-document/search-document.component';
 import {MatInputModule } from '@angular/material/input';
 import { MatIconModule, MatSelectModule, MatNativeDateModule } from '@angular/material';
 import {MatTableModule} from '@angular/material/table';
@@ -20,15 +19,12 @@ import { FormFieldsComponent } from './form-fields/form-fields.component';
 import {MatDatepickerModule} from '@angular/material/datepicker';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { OwlDateTimeModule, OwlNativeDateTimeModule } from 'ng-pick-datetime';
-import { MomentjsDateComponentComponent } from './momentjs-date-component/momentjs-date-component.component';
 @NgModule({
   declarations: [
     AppComponent,
-    SearchDocumentComponent,
     ShowDataComponent,
     AgGridShowTableComponent,
-    FormFieldsComponent,
-    MomentjsDateComponentComponent
+    FormFieldsComponent
   ],
   imports: [
     BrowserModule,
