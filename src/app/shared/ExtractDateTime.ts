@@ -18,7 +18,7 @@ export class ExtractDateTime{
         return new Date(this.year, this.month, this.day, this.hours, this.minutes, this.seconds, this.milliseconds);
     }
 
-    getStartDate(d1:Date){
+    getStartDate(d1:Date):Date{
         this.year=d1.getFullYear();
         this.month=d1.getMonth();
         this.day= d1.getDate();
@@ -28,7 +28,7 @@ export class ExtractDateTime{
         this.milliseconds=0;
         return new Date(this.year, this.month, this.day, this.hours, this.minutes, this.seconds, this.milliseconds);
     }
-    getEndDate(d1:Date){
+    getEndDate(d1:Date):Date{
         this.year=d1.getFullYear();
         this.month=d1.getMonth();
         this.day= d1.getDate();
@@ -39,4 +39,15 @@ export class ExtractDateTime{
         return new Date(this.year, this.month, this.day, this.hours, this.minutes, this.seconds, this.milliseconds);
     }
  
+    getDateTimeStandard(datetime:Date):string{
+        this.year=datetime.getFullYear();
+        this.month=datetime.getMonth();
+        this.day= datetime.getDate();
+        this.hours=datetime.getHours();
+        this.minutes=datetime.getMinutes();
+        this.seconds=datetime.getSeconds();
+        this.milliseconds=datetime.getMilliseconds();
+        return (this.year+"/"+this.month+"/"+this.day+" "+this.hours+":"+ this.minutes+":"+this.seconds);
+    
+    }
 } 

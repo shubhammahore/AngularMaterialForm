@@ -50,8 +50,15 @@ export class FormFieldsComponent implements OnInit {
         console.log(formData);
         console.log(this.startDateTime);
         console.log(this.endDateTime);
+        //2019/7/15 5:21:55
+        console.log(obj.getDateTimeStandard(this.startDateTime));
+        console.log(obj.getDateTimeStandard(this.endDateTime));
+        //2019-08-28T23:52:10.000Z
+        console.log(this.startDateTime.toJSON());
+        console.log(this.endDateTime.toJSON());
           //console.log(new moment(`2018-08-20T07:37:09.000Z`).format('YYYY-MM-DD hh:mm'));
           //8/1/2019 7:40:37 PM   //C# DateTime Format
+          //DateTime.ParseExact(YourString, "dd/MM/yyyy HH:mm:ss", CultureInfo.InvariantCulture);
       this.rowData = this.http.get('https://api.myjson.com/bins/15psn9');
     }
 
