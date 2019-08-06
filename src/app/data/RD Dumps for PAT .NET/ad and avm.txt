@@ -1,0 +1,2179 @@
+1. Which of the following statements are true?
+
+	I. Unit testing is executed by developer
+
+	II. In Unit testing individual functions or procedures are tested
+
+	III. It is kind of white box testing
+
+	select one
+
+	a. I,II, III ---------------Ans  (crct)
+
+	b. Both I and II
+
+	c. Only I
+
+	d. Only II
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. public final class Constraints
+	
+        {
+		Public Static final String   DEFAULT_ROLE="EMPLOYEE",
+	}
+
+	What does the above statement indicate?
+
+	a. None of the Listed
+
+	b. EMPLOYEE role information set in the field
+
+	c. syntax errors
+
+	d. creating the constraints file to make use of the defined constraints in other class---------------ANS
+
+	e. DEFAULT_ROLE set to EMPLOYEE field
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	
+3. Which of the following is true?
+
+
+		a. the requirement document describes how the requirements that are listed in the document are implemented efficiently
+
+
+		b. consistency and completeness of functional requirements are always achieved in practice
+
+
+		c. Prototyping is a method of requirements validation--------------------------ANS  (crct)
+
+
+		d. requirements review is carried out to find the errors in system design
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+		
+4. Providing full time application support through multiple shifts and by operating at different time zones and countries is known as
+
+
+		a.Follow-the-support model
+
+		b.Follow-the-sun model---------------ANS
+
+		c.Follow-the-moon model
+
+		d. none of these
+		
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+5. If l0/l1 team is unable to find the resolution in the knowledge database, whom do they contact for further troubleshooting?
+
+
+	        a. L3 support
+
+	        b. L4 support
+
+	        c. none of these
+
+	        d. L2 support---------------ANS	
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+
+11.Which of the following are the best practices?
+
+
+               I. Move all the hardcoded values to the constant file.
+
+               II. Have log file to log all the activities.
+
+               III. Better to catch general exceptions than specific exceptions.
+
+	Select one:
+
+	a.All of the listed options
+
+	b.Only III
+
+	c.Only I and II----------------------------------------------------ANS
+	
+        d.Only II and III
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+12. ______ is the process of applying as much creativity as possible and validating the application against invalid data.
+
+	Select one:
+
+	a.White box Testing
+
+	b.Sanity Testing
+
+	c.Negative Testing------------------------------ANS
+
+	d.Regression Testing
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+13. The detailed study of existing system is referred to as:
+
+	Select one:
+
+	a.System Planning
+
+	b.System Analysis ------------------------------ANS
+
+	c.Feasibility Study
+
+	d.Design DFD
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+14. Through Shift Left Methodology, the knowledge flows from_________.
+
+
+	Select one:
+
+	a.L4,L3,L2toL1----------------------ans
+
+	b.L1,L2,L4toL4
+
+	c.L1.L2,L4toL3
+
+	d.L1,L3,L4toL2
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+15. Which key constraint can accept null value
+
+	Select one:
+	a.Check
+
+	b.Unique key ---------------------------------ANS
+
+	c.Primary key
+
+	d.Foreign key
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+16. If an urgent RFC is raised , which board needs to take an immediate action?
+
+	Select one-
+
+	a.ECAB(Emergency Change Advisory Board)---------------------------------------------------ANS
+
+	b.ECAB(Exclusive Change Advisory Board)
+
+	c.None of the listed options
+
+	d.CAB(Change Advisory Board))
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+
+17.The ability to resolve known incidents in known error resolution services in --- downtime to the business, which in turn means ----- availability of the service?
+
+	Select one-
+
+	a.Lower, higher--------------------------------------------------------------------------------------------------------ANS
+
+	b.Lower,Lower
+
+	c.higher,higher
+
+	d.higher,Lower
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+ 
+
+18)question is not clear
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+
+19)which key attributes of incidents handling, refers to the time when the solution to the problem was found and the work started?
+
+
+	Select one-
+
+	A.Status Time
+
+	B.Response Time	
+
+	c.Resolution time
+
+	D.Restoration Time---------------------ANS
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+ 
+20)L2 support team provides ----- for solving basic technical problems
+
+	Select one-
+
+	a.Output to L3 support team
+
+	b.Output to L0/L1 support team
+
+	c.Input to L0/L1 support team--------------------ANS
+
+	d.Input to L3 support team 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+21. Benchmarking is the process of comparing one business process and performance metrics
+
+to industry bests or best practices from other industry and setting uop a target level for 
+
+each of the metrics. 
+
+	true--------------------------ans
+
+	false 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+
+22. what are the advantages of exception handling 
+
+Select one or more:
+
+a.None of the listed options.
+
+b.In Exception handling,generic Exception object can be extended to any specific type of exception--ANS
+
+c.Exception handling maintains the normal flow of the application-------------ANS
+
+d.With the exception handling mechanism, the dfeveloper can write their code much "cleaner" and have exception automatically handled-----------ans
+
+
+e.With the exception handling mechanism,when an exception occurs, the execution of the program is transffered to an appropiate exception 
+handler and terminate the program----------ANS
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+23.Which of the following is the incident status correct order?
+
+Selected one:
+
+a.None of the listed options
+
+b.New, Active,Resolved,Closed-------------ans 
+
+c.Active,New,resolved,Closed
+
+d.New,Resolved,Active,Closed 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+24. design document is to developers 
+
+Select one:
+
+a.blueprint-------------------------------------------------------------ANS
+
+b.handbook
+
+c.Reference Material
+
+d.Guide
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+25.Application Consolidation services focuses on consolidating multiple 
+
+
+application which are______________in nature to coehesive IT application landscape
+
+Select one:
+
+a.dissimilar-------------ans
+
+b.similar
+
+c.unrelated
+
+d.disconnected
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+26 .which SERVICE HAS THE PRIMARY OBJECTIVE as to prevent problems before 
+
+happening to production environment?
+
+Select one:
+
+a.Continous Build & Release
+
+b.Application Strengthening------------ans
+
+c. Compliance & Regulatory Updates
+
+d.Release Planning
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+27.which process grants authorised users the right to use a service
+
+Select one:
+
+a.access management------------------------------------------------ANS
+
+b.Event management
+
+c. Problem Management
+
+d.Incident management
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+28.which statement can enclose a continue statement 
+
+
+a.while , do , for , or foreach---------------------------------ANS
+
+b.try,while,do,for,or foreach
+
+c.switch,while,do,for,or foreach
+
+d.while,do,for,or foreach
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+
+29. What is the use of creating an index in the table ?
+
+
+Select one:
+
+a.To increase the performance of the table
+
+b.All the listed options--------------------------------------------ANS
+
+c.To order the records in the table
+
+d. To search the records in the table
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+
+30.what is the difference between white box testing and black box testing
+ 
+Select one:
+
+a.White box testing is testing on the QA environment and Black box testing is testing on the UAT environment
+
+b. All the listed options
+
+c.White box testing requires the knowledge of the structure of the code and black box testing is done to test the business requirement at a high level-----------ans
+
+
+
+d.Whitebox testing is done by the testing team and bleck box testing is done only by the developer during development.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+31. Activities in traditional AVM model are broadly classified under 
+
+I.Application/Production support
+
+II.Bug Fix
+
+What is the third one?
+
+ Select one:
+
+a.Enhancements-------------------------------ANS
+
+b.Product upgrade
+
+c.Ad hoc Requests
+
+d.Batch Monitoring
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+32. The key analysis involved in feasibility analysis is/are 
+ 
+
+Select one:
+
+a.Economic
+
+
+b.Technical
+
+
+c.Behavioral
+
+
+d.All of the listed options----------------------------------ANS
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+ 
+
+33. Which of the following is NOT an outcome of Best Practices in AVM engagement
+
+
+Select one:
+
+a.Efficient and Effective Operations
+
+b.Improve Reliability
+
+c.Improves Customer Satisfaction
+
+d.Increased Manitenance and Operating costs---------------------------------ANS
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+
+34. In which phase of the AVM Lifecycle are the customer's requirements actually fulfilled 
+
+
+Select one:
+
+a.None of the listed options
+
+b.Initiation and Planning Phase
+
+c.Service Phase --------------------------------------------ANS
+
+d.Knowledge Transition Phase
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+
+35. If an incident is not responded to/resolved within the defined SLA time limits, it is considered as
+
+
+Select one:
+
+a.SLA Breach-------------------------------------------ANS
+
+b.SLA Met
+
+c.Penality Clause
+
+d.None of the listed options 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+
+36. ......... activity is a part of  supportand it is required for any customer business availability/continuity.
+
+Select one.
+
+A-Monitoring-------------------------------------------------------------ANS
+
+B-online processing
+
+C-analyzing
+
+D-testing
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+37 ...... is harder for complex systems in particular,when various subsystems are tightly coupled as changes in one system or interface may cause bug to emerge in another .
+Select one.
+
+A-compilation
+
+B-testing
+
+C-debugging----------------------------------------------------------------------ANS
+
+D-execution
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+38 select ename, sal
+
+FROM emp
+
+WHERE deptno=(SELECT*FROM dept
+
+WHERE lock='NEW YORK');
+
+
+what will be the output of the above example?
+
+	SELECT ONE.
+	A-will throw an error-------------------------------------------------------------------------ANS
+	B-will give multiple record
+	C-will display nothing
+	D-will give single record
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+39. What are all the services under Product Engineering Services??
+
+	A-white box testing, black box testing
+
+	B-test automation and black box testing
+
+	c-test automation and white box testing----------------------------------------------------------ANS
+
+	D-none of the listed options
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+40. why should the team have project demo to the customer on a regular basis?
+	
+        Select one-
+
+	A-to ask the customers feedback on the developed user stories.
+
+	B-all of the listed options.-------------------------------------------------------------------------ANS
+
+	C-to showcase that the requirements of the highest business value to the customer have been prioritized and developed for the customer
+
+	D-to make him feel confident that his requirements are being developed the way it is expected.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+Q41. In AVM projects,inefficent processes leads to _____ productivity and _____ support costs.
+
+	Select one-
+
+	A-higher,increased
+
+	B-lesser,decreased
+
+	C-lesser,increased------------------------------------------------------------------------------------ANS
+	
+        D-higher,decreased
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+Q42.In AVM, Best Practices can be categorized under which of the following?
+
+	Select one-
+
+	A-All of the listed options------------------------------------------------------------------------ANS
+	
+        B-Transformation
+
+	C-Effectiveness
+
+	D-Innovation
+
+	E-Efficiency
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+Q43.Which support level majorly deals with unknown incidents?
+
+	Select one-
+
+	A-L3 Support
+
+	B-L4 Supprt
+
+	C-L2 Support-------ans
+
+	D-L0/L1 Support
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+Q44.Design documents does not contain details on the infrastructure associated with the system.
+State true or false.
+
+	A-True-------------------------------------------------------------------ANS
+
+	B-False
+------------------------------------------------------------------------------------------------------------------------------------------------------------------			
+
+
+45.what is the exception that should be raised by the below situation ?
+ 
+
+{
+
+try
+
+{
+
+result=num1/num2
+
+}
+
+catch(-----e)
+
+	Select one : 
+
+	a-OutOfMemoryException
+
+	b-DivisionError
+	
+	c-DivideByzeroException-----------------------------------------------ANS
+
+	d-ApplicationError
+-------------------------------------------------------------------------------------------------
+
+
+46.Service portfolio management ensures we dont waste money with excess capacity. 
+
+true or false ?
+
+	a.True
+
+	b. false--------------------------------------------ANS
+
+
+-------------------------------------------------------------------------------------------------
+
+47.What are the various purposes of Business requirement document(BRD) ?
+
+	Select one-
+
+ 	a- A BRD details the business solution for a project including the documentation of 
+
+        customer needs and expectations.---------------ans
+
+	b- A BRD is a formal document that provides a contract between supplier and client..-----------------------------ans
+
+	c- A BRD contains detailed project plan and design
+
+	d- A BRD effectively defines the scope of the project.---------------------------------------ANS 
+
+
+------------------------------------------------------------------------------------------------------
+
+
+48. Design document details ? select one or more
+
+
+	a- How the requiremnts should be implemented---------------------------------------ANS 
+
+	b- software to be used
+
+	c- technology to be used in development---------------------------------------ANS
+
+	d-Architecture design of the system.---------------------------------------ANS
+
+--------------------------------------------------------------------------------------------------------------
+
+
+49.Which step of SDLC performs cost/benefit analysis ?
+
+	Select one-
+
+	a- Feasibility study---------------------------------------ANS
+
+	b- Analysis
+
+	c- Design
+
+	d- none of the above.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+50.In which ITIL service lifecycle phase is the value of services actually realised by a customer ?
+
+
+
+	Select one-
+
+	a-Service transition
+
+	b-Service operations---------------------------------------ANS
+	
+        c-Continual Service improvement
+	
+        d-Service design
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+51) Which service manages the versions of the code base, ensures retrofitting the code and ensures planning,scheduling, and execution of a successful build?
+    
+	Select one-
+
+
+	a) Application Strengthening
+
+	b) Continuous Build & Release------------------------------------------------------------Ans
+
+	c) Release Planning
+
+	d) compliance & Regulatory Updates. 
+
+
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+52) Which of the following statement is false?
+
+	Select one-
+
+	a) The process of destroying unreferenced objects is called Garbage Collection
+
+	b) None of the listed options--------------------------------------------------------------------------------------Ans
+
+	c) Garbage Collector frees the memory occupied by the unreachable objects during the program execution
+
+	d) An object becomes eligible for garbage collection when no live thread can access it
+
+	e) Heap part of the memory is involved in Garbage Collection 
+
+---------------------------------------------------------------------------------------------------------------------
+
+53) Select the validations that are applicable for the text box field.
+    Enter username
+
+    [Submit]
+
+    Select one or more: 
+	a) Should check if the text box is null
+
+	b) Must check the special characters
+ 
+	c) Should check whether the user has access
+
+	d) Should check the number of characters
+
+	e) All of the listed options.-------------------------------------------------------Ans
+
+---------------------------------------------------------------------------------------------------------------------
+
+54) ______ is the only trigger type you can have on any type of view.
+
+	Select one-
+
+
+	a) Insert trigger
+
+	b) Delete trigger
+
+	c) Instead-of trigger----------------------------------------------------Ans
+
+	d) Row trigger
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+55) What will be the result of the following SQL when executed?
+
+    SELECT TOP 10[Name]
+
+    FROM [GLS2_PROD ].[dbo].[tblAssociate]
+
+   Sample Data
+
+   ID Name
+
+   31208 Rajashekar Gupta P
+
+   103210 Nagarajan,Rajeswari
+
+	Select one-
+
+	a) Returns Null
+
+	b) Returns top 10 Names in the table-----------------------------------------Ans
+
+	c) Returns top 10 rows in the table
+
+	d) Syntax error in the SQL  
+---------------------------------------------------------------------------------------------------------------------
+
+56) Primary Key in a table can have null value. State True or False.
+
+	Select one-
+
+	True
+
+	False-----------------------------------------------------------------------------------Ans 
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+57)identify the benefit of CSI
+
+
+  ANS) ALL 
+
+---------------------------------------------------------------------------------------------------------------------
+
+58)WHICH OF THE FOLOWING IS NOT COVERED BY L0/L1 SUPPORT TEAM
+
+
+   ANS) PROMOTE ENHANCEMENT CHANGES TO PRODUCTION BY WORKING WITH RELES MANGMNNT TEAM
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+59) which analysis prevents the recurrence of incidents or prevents incidents even before they happen and lead to automation to reduce manual interventions, errors and efforts in L2 support?
+
+I. Reactive analysis
+
+II. Proactive analysis
+
+a. I
+
+b. Neither I nor II
+
+c. II----------------------------------------------------------------------ANS
+
+d. Both I and II
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+60) which of the following statements are true?
+
+
+I. A well written logging code offers quick debugging, easy maintenance, and structured storage of an application's runtime information.
+
+
+II. LOG.info("Data base operation failed. Check your SQL connection") statement logs the above lines in logger for best understanding.
+
+a. Only II
+
+b. Only I
+
+c. Neither I nor II
+
+
+
+d. Both I and II----------------------------------ANS
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+1.unit testing done by tester true or false?
+
+Ans: False
+
+------------------------------------------------------------------------------------------------------------------
+
+2.Breaking the system modules into smaller programs and allocating these programs to the members of the system development team is the activity involved in ..............
+
+
+A. System Design Phase
+
+B. System Development Phase-----ans
+
+C. System Analysis Phase
+
+D. System Implementation Phase
+
+
+------------------------------------------------------------------------------------------------------------------
+
+3.What is meant by Response time ?
+
+ANS:Response time refers to the time when the initial response was given by the production support team
+
+------------------------------------------------------------------------------------------------------------------
+
+4.Which service identifies and maintains a record of all installed applications?
+
+Ans: Application License Management
+
+------------------------------------------------------------------------------------------------------------------
+
+5.How to identify performance od select Query?
+
+a.Using hint
+
+b.Using Explain plan---------ans
+
+c.Table statistics
+
+d.Using Dbms_sql
+
+------------------------------------------------------------------------------------------------------------------
+
+
+6.In CR process who sets priority for request determined by committee?
+
+aNS:Change MANAGER
+------------------------------------------------------------------------------------------------------------------
+
+
+7.Unit testing is commonly automated but cannot still be performed?
+
+Ans;false
+
+------------------------------------------------------------------------------------------------------------------
+
+
+
+
+8.High level design gives the overall system design in terms
+
+of functional architecture  and database design? T or F.........True
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+9.In which step of sdlc project termination done?
+
+a. design phase 
+
+b . System maintenance phase
+
+c. Feasibility study phase ----ans
+
+d. Coding phase
+
+------------------------------------------------------------------------------------------------------------------
+
+10.Continual service improvement is __   type of initiative?
+
+a.A. Run better
+
+ b. Productivity improvement
+
+ c. Optimization
+
+d. Efficiency improvement---ans
+
+------------------------------------------------------------------------------------------------------------------
+
+11.L2 is support team is _ of functional escalation for
+L0&L1 teams?
+
+ANS:1ST LEVEL
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+12.Function point sizing is dependent on technology ... T or f? ANS:TRUE
+
+------------------------------------------------------------------------------------------------------------------
+
+13.Providing uninterrupted access to apps and system and ensuring app availability 
+
+
+is the main objective of AVM ... T or f?  ans:True
+
+------------------------------------------------------------------------------------------------------------------
+
+
+14.Which one is not an outcome of best practice in AVM engagement .
+
+
+a.efficient and effective operations 
+
+b.increased maintenance and operation costs. ----- ans
+
+C. Improves reliability. 
+
+D.improves customer satisfaction
+
+
+------------------------------------------------------------------------------------------------------------------
+
+15.Creating FAQ documents is an example of which csi method?
+
+a.idea management system 
+
+b. Process standardization 
+
+c. Self service strategy 
+
+d. None
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+1.Which of the following are the best practices?
+
+I.Move all the hardcoded values to the constant file
+
+IIhave log file to log all the activities
+
+III.Better to catch general exceptions than specific exceptions(SQLexception,Arithmetic Exceptions)
+
+
+Select one:
+
+a.Only II andIII
+
+b.Only I and II--------------------------------------------ANS
+
+c.Only III
+
+d.All the listed options.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+2.What type of testing is performed by independent testing team/testing service?
+
+
+Select one:
+
+
+a.Smoke Testing/Regression Testing/UAT/Unit Testing
+
+
+
+b.Unit Tseting?System/Functional Testing?SIT,Regression testing,UAT
+
+
+
+c.unit Tseting/SIT/UAT
+
+
+
+d.System/Functioanl Testing/SIT,Regression Testing,UAT-------------------------------------------------ANS
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+3.Which key attributes of incident handling,refers to the time when the solution to the problem was found and the work started?
+
+Select one:
+
+a.Resolution Time
+
+
+b.Restoration Time-------------------------ans
+
+
+c.Status Time
+
+
+d.Response Time
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+4.Through Shift left Medhodology,the knowledge flows from__________
+
+Select one:
+
+
+a.L1,L2,L4toL3
+
+
+
+b.L4,L3,L2toL1---------------and
+
+
+
+c.L1,L2,L3toL4
+
+
+
+d.L1,L3,L4toL2
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+5.Which of the following are true?
+
+
+
+Select one:
+a.The requirements document describes how the requirements that are listed in the document are implemented efficiently
+
+b.Consistency and completeness of functional requirements are always achieved in practice.
+
+c.Prototyping is a method of requirements validation--------------------------------------------------------------------------ANS
+
+d.Requirements review is carried out to find the errors in system design.
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+6.Why should the team have Project demo to the customer on a regular basis?
+
+
+Select one:
+
+a.To make him feel confident that his requirements are being developed the way it is expected
+
+b.To showcase that the requiremnts of highest bussiness value to the customer have been priortized and developed for the customer.
+
+
+c.To ask for the customers feedback on the developers user stories
+
+
+
+D.aLL THE LISITED OPTIONS-----ANS
+
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+7.Function point Sizing is dependent on technlogy.State True or False
+
+
+Select one:
+
+a.True--------------------------------------ANS
+
+b.False
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+8.Which master service of AVm managed services catalog focuses on long-term functionality,stability and preventive maintainance to
+
+avoid problems thta typically arise from incomplete or short-term solutions?
+
+Select one:
+a.Governance Services
+
+b.Managed production Services------------------------------ans
+
+c.Product Services
+
+d.Managed Application Services.
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+9. which of the following statements are true?
+
+I.Unit Testing is executed by the developer
+
+II.In Unit Testing,individual functions or procedures are tested
+
+III.It is kind of white box testing
+
+
+Select one:
+a.Both I and II
+
+b.I,II and III------------------------------------------------------------------------------ANS
+
+c.Only I
+
+d.Only II
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+10.How much time should a daily standup usually take?
+
+Select one:
+
+a.One Hr
+
+b.20-40 Min
+
+c.10-15 min-----------------------------------------------------------------------------------ANS
+
+
+d.Depending upon the team's clarifications and the amount of issues to be discussed.
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+11.in legacy AVM  service phase activities can be catogorized as which of the following ?
+
+Select one:
+
+a)production support
+
+b)maintance
+
+c) all of the listed options-----------------------------------------------ans
+
+d)enhancements
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+12.how many phases are there in ITIL service life cycle?
+
+Select one:
+
+a.Four
+
+b.Three
+
+c.Six
+
+d.Five---------------------------ans
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+13.application services such as functional enhancements, business solution delivery and environment management 
+
+services are performed by which support group?
+
+Select one:
+
+a.L2 Support
+
+b.L4 Support---------------------------ans
+
+c.L3 Support
+
+d.L1 Support
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+q14)In which step of SDLC are enhancements , upgrades and bug fixes done??
+
+ a) maintenance and evaluation ----------------------------------------------------------------ans 
+
+
+b)problem/opportunity identification
+
+
+
+c)design
+
+
+d)development and documentation
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+15.in which phase of the AVM lifecycle are the customers requirements actually fulfilled?
+
+
+a)none
+
+b)initiation and plannning phase 
+
+c) service phase -----------------------------------------------------------ans
+
+d)knowledge transition phase
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+16.minor enhancements are handled by which support team ?
+
+Select one:
+
+a)L2
+
+
+B)NONE
+
+c) L3 support team ---------------------------- ans
+
+D)L4
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+17.Which of the following is NOT a benefit of Data Migration Service?
+
+Select one: 
+
+a.Eliminates the risk of losing data.
+
+
+b.Meets regulatory and compliance requirements for data retention.
+
+
+c.Decreases system/product productivity and performance while minimizing disruption due to data loss.--------------ANS
+
+
+d.Maintains integrity and availability of data to support business decisions.
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+18.Which service provides real time monitoring of all jobs and constantly checks the status of the jobs?
+ 
+Select one:
+
+a.Application monitoring service.
+
+b.Batch Scheduling/Execution Service.
+
+c.Batch monitoring service.----------------------------------ANS
+
+d.Mailbox and Ticketing Tool Monitoring Service.
+
+ 
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+19.enhancement services , assessment services and transformation services are rendered by l4 support team?
+
+Select one: 
+
+true ---------------------ans
+
+FALSE 
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+20._________ is the only trigger type you can have on any type of view.
+
+Select one:
+
+a)Insert trigger
+
+b)instead of trigger -----------------------------------------------------ans
+
+c)delete trigger
+
+d)row trigger
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+21.What is/are service benefit(s) for Application Problem Management service?
+
+
+Select one:
+
+A-All of the listed options
+
+B-Reduction of effort in fire-fighting or resolving repeated incidents----------ans
+
+C-Lesser productivity of business and IT
+
+D-Increased effort on workarounds and temporary fixes
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+22.AVM projects faced lot of challenges prior to Service catalog approach.State true or False.
+
+
+Select one:
+
+
+A-True-------------------------------ANS
+
+
+B-False
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+23.Which service in MAS, follows SDLC phases and manages end to end delivery from design, System Testing,Release
+
+Planning, Go live support and post production support?
+
+Select one:
+
+A-Functional Enhancements
+
+B-Application Integration Services-------------------------------------------ANS
+
+C-Application Strenghtening
+
+D-Release Planning
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+24.Which step of SDLC performs cost/benefit analysis?
+
+Select one:
+
+
+A-Feasibility Study---------------------------------------------------------ANS
+
+B-Analysis
+
+C-Design
+
+D-None of the following options.
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+25.Which support level deals with unknown incidents?
+
+Select one:
+
+A-L4 support
+
+
+
+B-L0/L1 support
+
+C-L2 support---------------------------ans
+
+D-L3 support
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+26. One of the more challenging aspects of change management is ensuring that all details of changes
+ 
+are sufficiently documented and all parties are in agreement as to what is expected. State true or False
+
+true---------------------ans
+
+false
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+27. What will be the result of the following SQL when executed?
+
+    SELECT TOP 10[Name]
+    FROM [GLS2_PROD ].[dbo].[tblAssociate]
+
+   Sample Data
+
+   ID Name
+
+   31208 Rajashekar Gupta P
+
+   103210 Nagarajan,Rajeswari 
+
+   103549 Balagoplan, Narayanan 
+
+
+Select one
+  a- Returns top 10 Names in the table----------------------------------------------------------------ANS
+
+  b- Returns top 10 rows in the table
+
+  c- Returns Null
+
+  d- Syntax error in the SQL 
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+28.which of the following statements are true?
+
+I. A well written logging code offers quick debugging, easy maintenance, and structured storage of an application's runtime information.
+
+II. LOG.info("Data base operation failed. Check your SQL connection") statement logs the above lines in logger for best understanding.
+
+
+a- Only I
+
+b- Both I and II----------------------------------------------------------------------ANS
+
+c- Neither I nor II
+
+d- Only II
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+29.L2 support team provides___________ for solving basic technical problems.
+
+select one
+a- o/p to L3 support team
+
+b- i/p to L0/L1 support team---------------------ans
+
+c- i/p to L3 support team
+
+d- o/p to L0/L1 support team
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+
+30. what is the exception that should be raised by the below situation ? 
+
+
+public void division(int num1, int num2)
+{
+
+try
+{
+result=num1/num2
+
+}
+catch(-----e)
+
+Select one : 
+
+a-DivideByzeroException--------------------------------------------------------------------ANS
+
+b-OutOfMemoryException
+
+c-DivisionError EXecption
+
+
+d-ApplicationError
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+31. Define product upgrade service
+
+I. Focuses on analyzing the current implementations, IDENTIFYING CLIENT specific customizations, conducting a feasibility study, preparation of a comprehensive upgrade roadmap and executing the same 
+
+II. Focuses on to achieving a complete product integration through progressive assembling of product components in a single stage or in incremental stages, with a defined integration strategy and procedure
+
+Select one :
+
+a.I only--------------------------------------------------------------------------ANS
+
+b.Both I and II
+
+
+c.Neither I nor II
+
+
+
+d.II only
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+32. which of the following UML diagram represents the relationship among the classes?
+
+Select one :
+
+a. UseCase Diagram
+
+b. Class Diagram--------------------------------------------------- ANS
+
+c. Sequence Diagram
+
+d. Activity Diagram
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+33.What does ITIL stands for?
+
+Select one :
+
+
+a. Information Technology Ideal Library
+
+b. Information Technology Infrastructure Library -----------------------------------------------------------ANS
+
+c.Information Technology Interactive Library
+
+d.Information Technology Intelligence Library
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+34.a _____ is a method or technique that has consistently shown results superior to those achieved with other means and that is used as benchmark
+
+Select one :
+
+a. Best practice-------------------------------------------------ANS
+
+b. Process
+
+
+c. Scheme
+
+d. System
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+35. A design document contains declaration for all new classes, procedures, global and class variables and the description of all new procedures.
+state true or false
+
+Select one :
+
+a. true --------------------------ANS
+
+
+b. false
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+36. Define CMDB
+
+
+I. It is a database that contains information about configurable IT components along with relationship between these components 
+
+
+II. It is repository of information that describes all of the conditions in your IT system that might result in an incident for your customer and users.
+
+Select one :
+
+a. Only II
+
+b. Neither I nor II
+
+
+c. I only--------------------ans
+
+
+
+d. Both I and II
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+37. CSi is one of the key focus areas in ITIL framework. True/false
+
+Select one :
+
+a. true ----------------------------------------ANS
+
+b. false
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+
+38. What are the various purpose of Business requirement document (BRD)?
+
+select one or more
+
+
+Select one :
+
+a. BRD details the business solution for a project including the documentation of customer needs and explanation-----ANS
+
+b. BRD is formal document that provides a contract between supplier and client. -------------ANS
+
+c. BRD contains the detailed project plan and design
+
+
+d. The BRD effectively defines the scope of the project-----------------ANS
+
+
+ANS- a, b, d
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+
+39. Application community and Resilience support services assist client in the analysis, design and implementation of business continuity solutions. True/false
+
+Select one :
+
+a. true ----------------ANS
+
+b. false 
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+40. public final class Constraints
+{
+	Public Static final String   DEFAULT_ROLE="EMPLOYEE",
+}
+What does the above statement indicate?
+
+Select one :
+
+a. creating the constraints file to make use of the defined constraints in other class-------------ANS
+
+
+b. syntax errors 
+
+
+c. EMPLOYEE role information set in the field
+
+
+d. DEFAULT_ROLE set to EMPLOYEE field
+
+
+e. None of the Listed
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+41) the phases in software testing life cycle are
+
+Select one
+:
+a)test planning
+
+
+b) test design
+
+
+c) test execution
+
+
+d) test closure
+
+
+e) all ---------------------------------------------------------------------ANS
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+42 select ename. sal from emp where deptno = (select * from dept where loc ='New york')
+
+Select one:
+
+
+a)multiple record
+
+
+b)displays nothing
+
+
+c)throw an error----------------------------------------------- ANS 
+
+
+d)dispaly single row
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+43)which of the following statement is false
+
+Select one:
+
+a) the process of destroying unreferenced objects is called garbage collector
+
+
+
+b) none-----------------------------------------------------ANS
+
+
+c)an object becomes eligible for garbagae collection when there is no live thread
+
+
+
+d) heap part of the memory is involved in garbage collection
+
+
+e)garbage collection frees the memory occupied by the unreachable objects
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+44)SDLC stands for
+
+Select one:
+
+a)software development life cycle---------------ANS
+
+b)system development life cycle
+
+c)software design life cycle
+
+
+d)system design life cycle
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+
+46)advantages of exceptional handling
+
+Select:
+
+a)none
+
+b) with the exception handling mechanism when the exception occurs the execution of the prgm is transfered to an appropriate exception handler and 
+
+terminate the pgm-----------------ANS
+
+c)exception handling maintains the nrmal flow of application------------------ANS
+
+d)with the exception handling mechanism the developer can code much
+
+
+ cleanser and ahve exception automatically decteced--------------------------------ANS
+
+
+e)in exception handling generic exception object can be extended to any specific type exception--------------ANS
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+47)who is responsible for reviewing the CR to verify that there is sufficient details
+
+Select one:
+
+a)project manager
+
+b)none of these
+
+c)change manager------------------------------------------------ ANS
+
+
+d)client manager
+
+ 
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+48) Which key constraint can accept null values?
+
+Select one:
+
+a) foreign key
+
+b) priamry key
+
+c) check
+
+
+d) unique key --------------------------------------------- ANS
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+49) HAVING Clause can be used only
+
+
+Select one:
+
+a)when select statement have where clause
+
+
+b)when the query has "group by" in select statemnets---------------------------- ANS
+
+
+c)when the order by clause is used in statement
+
+
+d)when conditiins is present in select statement
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+50)_________is the process applying creativity as much as possible and validating against invalid data
+
+
+Select one:
+
+a)Negative testing------------------------------------------- ANS
+
+b)regression testing
+
+c)sanity testing
+
+d)white box testing
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+51) Identify the priority of an incident that causes (or has the potential to cause) severe disruption to business operations and/or significant fiscal impact 
+
+Select one:
+
+a.Medium
+
+
+b.Critical----------------------------ans
+
+
+c.High
+
+
+d.Low
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+52) Which process grants authorized users the right to use a service? 
+
+Select one:
+
+
+a. access management-----------------------------------------------------------ANS
+
+
+b.Problem Management
+
+
+c.Event Management
+
+
+d.Incident Management
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+53) Which service is responsible for establishing a protocol for communication and coordination between vendors using major outages?
+
+Select one:
+
+
+a.Application License Management
+
+
+b.Major incident and Mediator Support Service---------------------------------------------ANS
+
+
+c.Known error Resolution Services
+
+
+d.Standard Service Request Fulfilment service
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+54) Which service identifies and maintains a record of all installed applications?
+
+Select one:
+
+
+a.Application License Management--------------------------------------------------------------ANS
+
+
+b.Adhoc Service request Fulfilment service
+
+
+d.Standard Service request Fulfilment service
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+
+55) Which of the following are the measurements of Batch Monitoring in AVM projects? 
+
+Select one:
+
+
+
+a.%Batch job abend---ANS
+
+b.%of Tickets Responed
+
+c.%Reduction in batch window---ANS
+
+d.%jobs complted within Target time ---ANS
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+56) There is no process that needs to be followed in Scrum as it is only driven 
+
+
+Select one:
+
+a.true
+
+
+b.false---------------------------------------------------------ANS
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+57) What are all Three defined levels of benchmark?
+
+
+Select one:
+
+a.Threshold Limit
+
+b.Goal---------------------ans
+
+c.Upper Control Limit-----------------------------------------ANS
+
+
+d.Lower Control Limit----------------------------------------------ANs
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+58) A scheduled batch process can consist of the execution of hundreds or thousands of jobs in a random sequence 
+
+Select one:
+
+true
+
+
+false---------------------ans
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+ 
+59) How to we identify the performance of the select query?
+
+Select one:
+
+
+a.Using HINT
+
+b.Using Explain plan---------------------------------------------------ANS
+
+c.Using Table statistic
+
+
+d.Using DBMS_SQL
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+
+60) enter user name -- not sure
+
+
+ 1.DISTINCT keyword used for_____________
+
+ANS:- To find Unique records from table
+
+2. Which policy Cognizant follows__________
+
+ANS:- Run Better, Run Different
+
+3.Which is Not DML command
+
+a. Insert
+b .Delete
+c. Update
+d. Truncate------------------------ANS 
